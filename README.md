@@ -1,4 +1,5 @@
 Sales Analysis Dashboard – Power BI + PostgreSQL
+
 📌 Project Overview
 
 This project consists of a sales analysis dashboard developed in Power BI connected to a PostgreSQL database.
