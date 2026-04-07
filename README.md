@@ -8,11 +8,13 @@ Analyze total sales revenue
 Compare sales volume vs revenue by product
 Evaluate performance by category
 Implement interactive filters for dynamic analysis
+
 🛠 Tools Used
 Power BI
 PostgreSQL
 Data Modeling
 DAX (basic measures)
+
 📈 Key Insights
 The highest revenue product is not the most sold in quantity.
 Sales performance varies significantly between categories.
